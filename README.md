@@ -2,14 +2,18 @@
 
 My name is Abduvakhit. 
 
+### About Me :
+
 I'm experienced Data and BI analyst with a demonstrated working experience in the Oil & Gas, Construction, Transportation, and Mining industries. 
 
 Has strong technical skills as well as excellent interpersonal skills, allowing to interact with a wide range of clients. Experience in leading an analytic team of 3-7 people. Quick learner, able to adapt to changing business needs and environment quickly.
 
-👩‍💻 Skills: 
+⚡ In my free time I solve problems on Hackerrank.com and study on Stepik.org.
+
+### 👩‍💻 Skills: 
     Data Manipulation, Data Cleaning, Data Visualization, Data modelling, Reporting and Business Analysis
 
-🛠 Languages and Tools:
+### 🛠 Languages and Tools:
     SQL, Power BI/IBM Cognos/SAP Analytics Cloud, Python (Pandas, Seaborn, Scikit-Learn), DAX, Microsoft Office
 
 You can reach me out through:
