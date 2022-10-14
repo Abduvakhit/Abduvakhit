@@ -18,7 +18,7 @@ Has strong technical skills as well as excellent interpersonal skills, allowing 
    **MS Office** used for documentation, diagram creation <br />
    **BI Tools:** MS Power BI, SAP Analytics Cloud, IBM Cognos <br />
    **ETL Tool:** SQL Server Integration Service <br />
-   ** DWH**: SAP S/4Hana Cloud, Google Big Query, MS SQL Server, Azure Blob Storage, MS Access <br />
+   **DWH**: SAP S/4Hana Cloud, Google Big Query, MS SQL Server, Azure Blob Storage, MS Access <br />
    **Programming language**: Python
 
 
