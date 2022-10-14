@@ -11,7 +11,11 @@ Has strong technical skills as well as excellent interpersonal skills, allowing 
 ⚡ In my free time I solve problems on Hackerrank.com and study on Stepik.org.
 
 ### 🔭 Skills: 
-    Data Manipulation, Data Cleaning, Data Visualization, Data modelling, Reporting and Business Analysis
+    Data Manipulation <br /> 
+    Data Cleaning <br /> 
+    Data Visualization <br />
+    Data modelling <br /> 
+    Reporting and Business Analysis
 
 ### 🛠 Languages and Tools:
    
