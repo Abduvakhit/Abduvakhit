@@ -14,7 +14,13 @@ Has strong technical skills as well as excellent interpersonal skills, allowing 
     Data Manipulation, Data Cleaning, Data Visualization, Data modelling, Reporting and Business Analysis
 
 ### 🛠 Languages and Tools:
-    SQL, Power BI/IBM Cognos/SAP Analytics Cloud, Python (Pandas, Seaborn, Scikit-Learn), DAX, Microsoft Office
+    MS Office used for documentation, diagram creation
+    BI Tools: MS Power BI, SAP Analytics Cloud, IBM Cognos
+    ETL Tool: SQL Server Integration Service 
+    DWH: SAP S/4Hana Cloud, Google Big Query, MS SQL Server, Azure Blob Storage, MS Access
+    Programming language: Python
+![image](https://user-images.githubusercontent.com/106146916/195810457-cf33c3db-62e1-48ad-a3b2-dbfd8c52aac5.png)
+
 
 ### 📫 You can reach me out through:
 
